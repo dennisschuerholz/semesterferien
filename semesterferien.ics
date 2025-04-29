@@ -3,8 +3,8 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:csv2ics // http://csv2ics.kozianka.de
 BEGIN:VEVENT
-UID:sabre-vobject-b65c3c01-5db9-46bb-b655-49cdad63c969
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-18758c1b-0a08-4223-b02d-1c3bd0385aca
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Orientierungswoche 2020
 DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
  rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
@@ -15,8 +15,8 @@ DTSTART;VALUE=DATE:20201012
 DTEND;VALUE=DATE:20201017
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-a5047a37-23db-40af-8584-b70296c675e6
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-c66237e1-0d13-4756-adf4-6093428deefc
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
  \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
@@ -26,8 +26,8 @@ DTSTART;VALUE=DATE:20201223
 DTEND;VALUE=DATE:20210106
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-8289964b-77b2-44a4-bd0f-f0db9b1069a4
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-aa0c8e63-f78b-473b-a1ba-7e7363fabdf1
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:WiSe 20/21 endet am 05.02.\, SoSe 21 beginnt am 12.04.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -37,8 +37,8 @@ DTSTART;VALUE=DATE:20210208
 DTEND;VALUE=DATE:20210410
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-25ff04a6-f0d5-446f-9d67-a28399246218
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-332b94b6-742b-4683-9030-782ad4ce9b47
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:SoSe 21 endet am 16.07.\, WiSe 21/22 beginnt am 18.10.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -48,8 +48,8 @@ DTSTART;VALUE=DATE:20210719
 DTEND;VALUE=DATE:20211016
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-9184da93-7ba9-40fa-b114-3a5795641dce
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-38f2ca04-9a34-401e-8d7e-1e710278119e
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Orientierungswoche 2021
 DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
  rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
@@ -60,8 +60,8 @@ DTSTART;VALUE=DATE:20211011
 DTEND;VALUE=DATE:20211016
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-10756b9c-e20b-4460-9fb3-1e837ee27384
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-e957f18e-749a-440e-87f4-bf2d876c3058
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
  \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
@@ -71,8 +71,8 @@ DTSTART;VALUE=DATE:20211223
 DTEND;VALUE=DATE:20220106
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-a4282672-adbf-4866-840c-0a9f93fca18d
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-432d0a94-d39d-42de-9119-8ef18e59c380
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:WiSe 21/22 endet am 04.02.\, SoSe 22 beginnt am 19.04.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -82,8 +82,8 @@ DTSTART;VALUE=DATE:20220207
 DTEND;VALUE=DATE:20220415
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-9baba682-6c51-4c33-b3a6-972179e099a1
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-07353bd4-5b9f-40ea-97ca-b9d69378d691
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:SoSe 22 endet am 22.07.\, WiSe 22/23 beginnt am 17.10.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -93,8 +93,8 @@ DTSTART;VALUE=DATE:20220725
 DTEND;VALUE=DATE:20221015
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-55f333fc-ab2c-4695-bbcb-65a19fa7ebd3
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-d2729b33-abaf-4649-844e-0b7cbf1088d6
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Orientierungswoche 2022
 DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
  rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
@@ -105,8 +105,8 @@ DTSTART;VALUE=DATE:20221010
 DTEND;VALUE=DATE:20221015
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-38674be9-b7ac-42f4-8e54-d9731b782b1c
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-8109e2a2-6b7a-4a35-b610-45a1ea66e4ed
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
  \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
@@ -116,8 +116,8 @@ DTSTART;VALUE=DATE:20221223
 DTEND;VALUE=DATE:20230107
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-97724d9e-2188-478f-a091-d90a2d552a13
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-9b917dcc-a6d8-4529-94d5-67a1c1346d72
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:WiSe 22/23 endet am 03.02.\, SoSe 23 beginnt am 11.04.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -127,8 +127,8 @@ DTSTART;VALUE=DATE:20230206
 DTEND;VALUE=DATE:20230407
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-cfaee480-aad0-46a4-ba4b-474ffbc977ad
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-1e53b236-9042-44a7-8dfa-39a1cae858af
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:SoSe 23 endet am 14.07.\, WiSe 23/24 beginnt am 16.10.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -138,8 +138,8 @@ DTSTART;VALUE=DATE:20230717
 DTEND;VALUE=DATE:20231014
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-5384efa4-daeb-41de-ae32-55d9d59d45f9
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-79bc0047-8a98-43cc-8134-61c6fd79fbd3
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Orientierungswoche 2023
 DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
  rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
@@ -150,8 +150,8 @@ DTSTART;VALUE=DATE:20231009
 DTEND;VALUE=DATE:20231014
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-f54a30e5-c7bc-4c19-b02b-6c7521c3bef0
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-2dab3679-67ff-4cd3-a7be-97fcfedf6c51
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
  \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
@@ -161,8 +161,8 @@ DTSTART;VALUE=DATE:20231223
 DTEND;VALUE=DATE:20240106
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-a6c9a297-7305-4408-99de-2dfaa9958538
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-ed8e5233-d5ac-479f-a287-6e550d034c89
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:WiSe 23/24 endet am 02.02.\, SoSe 24 beginnt am 02.04.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -172,8 +172,8 @@ DTSTART;VALUE=DATE:20240205
 DTEND;VALUE=DATE:20240329
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-236b3cc8-9420-4609-b184-4c26d1df45e9
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-61130f85-5679-41e8-827e-83fa15b0ac8c
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:SoSe 24 endet am 05.07.\, WiSe 24/25 beginnt am 14.10.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -183,8 +183,8 @@ DTSTART;VALUE=DATE:20240708
 DTEND;VALUE=DATE:20241012
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-58b2415a-f8fa-488c-89f9-1e83f31d7f9e
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-a9981603-770e-49b0-97dc-26fa9eb2a8fb
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Orientierungswoche 2024
 DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
  rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
@@ -195,8 +195,8 @@ DTSTART;VALUE=DATE:20241007
 DTEND;VALUE=DATE:20241012
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-6e0efc27-b878-4c00-bf41-41f4d518b8c2
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-9019a17b-0649-4727-b6e6-b4d92fbc7516
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
  \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
@@ -206,8 +206,8 @@ DTSTART;VALUE=DATE:20241223
 DTEND;VALUE=DATE:20250105
 END:VEVENT
 BEGIN:VEVENT
-UID:sabre-vobject-1d1ed6ec-bdc7-4521-aae6-665c4938efd1
-DTSTAMP;TZID=Europe/Berlin:20231212T174824
+UID:sabre-vobject-93127958-0b10-419d-99e1-613f4eb5b4da
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
 SUMMARY:Veranstaltungsfrei
 DESCRIPTION:WiSe 24/25 endet am 31.01.\, SoSe 25 beginnt am 07.04.\n\nDaten
  quelle: https://github.com/dennisschuerholz/semesterferien\nics-Datei gene
@@ -215,5 +215,152 @@ DESCRIPTION:WiSe 24/25 endet am 31.01.\, SoSe 25 beginnt am 07.04.\n\nDaten
  ter https://www.uni-bremen.de/studium/starten-studieren/semesterzeiten
 DTSTART;VALUE=DATE:20250203
 DTEND;VALUE=DATE:20250405
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-9fddbe2a-1670-420b-8064-c0a7fc1e9fb7
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20251011
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-8184ebeb-f710-4408-b93c-9c326b716989
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Orientierungswoche 2025
+DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
+ rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
+ ien\nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Seme
+ sterzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren
+ /semesterzeiten
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251011
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-8c56209b-db02-462c-a027-fccb46404e70
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260103
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-a91bd87e-176c-404c-94b9-aa9db9983bf8
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260404
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-d485faf7-e8ea-4910-8f15-c692d9f1e903
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20261010
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-ea92fe8d-ab4a-400a-b159-6bc5b0a070a4
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Orientierungswoche 2026
+DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
+ rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
+ ien\nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Seme
+ sterzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren
+ /semesterzeiten
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-bc57b370-d20f-4427-a22c-5276da68363a
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270104
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-2b9d9717-2312-4eda-8930-8051eb7c913a
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270403
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-226ba4d5-f342-4dc6-984f-8148244a4e81
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20271009
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-9c1fa6a0-4b2f-4c14-85f1-6d0c1442bce5
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Orientierungswoche 2027
+DESCRIPTION:Übersicht: https://www.uni-bremen.de/uni-start-portal/orientie
+ rungswoche\n\nDatenquelle: https://github.com/dennisschuerholz/semesterfer
+ ien\nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Seme
+ sterzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren
+ /semesterzeiten
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271009
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-87b7aa86-3731-4843-a301-97b1ba559bc4
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20280108
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-9b6961e1-08bd-4943-bcc1-4d615bdc32ad
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei
+DESCRIPTION:Datenquelle: https://github.com/dennisschuerholz/semesterferien
+ \nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAktuelle Semeste
+ rzeiten immer unter https://www.uni-bremen.de/studium/starten-studieren/se
+ mesterzeiten
+DTSTART;VALUE=DATE:20280207
+DTEND;VALUE=DATE:20280415
+END:VEVENT
+BEGIN:VEVENT
+UID:sabre-vobject-0966c447-e87b-4e8d-bc51-5200ca363ece
+DTSTAMP;TZID=Europe/Berlin:20250429T153113
+SUMMARY:Veranstaltungsfrei (*Prognose)
+DESCRIPTION:Das Ende der veranstaltungsfreien Zeit ist eine Prognose anhand
+  der früheren Daten.\n\nDatenquelle: https://github.com/dennisschuerholz/
+ semesterferien\nics-Datei generiert mit https://csv2ics.kozianka.de/\n\nAk
+ tuelle Semesterzeiten immer unter https://www.uni-bremen.de/studium/starte
+ n-studieren/semesterzeiten
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20281014
 END:VEVENT
 END:VCALENDAR
